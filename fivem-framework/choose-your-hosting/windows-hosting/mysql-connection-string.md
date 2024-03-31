@@ -3,10 +3,9 @@ description: >-
   Creating your database is 1 thing, but connecting your database to your server
   is another, below are a few steps on how to connect your fivem server to your
   mysql database.
-coverY: 0
 ---
 
-# MySQL Connection String
+# 🛢️MySQL Connection String
 
 Creating your connection string:
 
