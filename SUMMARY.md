@@ -11,3 +11,6 @@
       * [🛢️MySQL Connection String](fivem-framework/choose-your-hosting/linux-hosting/mysql-connection-string.md)
       * [👨‍💻Installing Framework](fivem-framework/choose-your-hosting/linux-hosting/installing-framework.md)
     * [🎮Panel Hosting](fivem-framework/choose-your-hosting/panel-hosting.md)
+* [NPWD X NAT2K15 Framework](npwd-x-nat2k15-framework/README.md)
+  * [Editing NPWD Config](npwd-x-nat2k15-framework/editing-npwd-config.md)
+  * [Installing npwd-framework](npwd-x-nat2k15-framework/installing-npwd-framework.md)
