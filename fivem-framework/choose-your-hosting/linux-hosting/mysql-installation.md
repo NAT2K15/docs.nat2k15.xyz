@@ -5,7 +5,9 @@ description: >-
   you how to do it in no time!
 ---
 
-# MySQL Installation
+# 🛢️MySQL Installation
+
+***
 
 #### Step 1: Update and Upgrade your linux machine
 

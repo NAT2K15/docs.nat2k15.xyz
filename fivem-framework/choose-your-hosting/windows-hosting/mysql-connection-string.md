@@ -7,6 +7,8 @@ description: >-
 
 # 🛢️MySQL Connection String
 
+***
+
 Creating your connection string:
 
 1. **Visit the MySQL String Generator Website:** [Here](https://brouznouf.github.io/fivem-mysql-async/)

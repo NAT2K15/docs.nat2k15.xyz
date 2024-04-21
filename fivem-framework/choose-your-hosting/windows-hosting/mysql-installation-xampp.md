@@ -5,7 +5,9 @@ description: >-
   you how to do it in no time!
 ---
 
-# MySQL Installation (xampp)
+# 🛢️MySQL Installation (xampp)
+
+***
 
 ## _Installing XAMPP:_
 
