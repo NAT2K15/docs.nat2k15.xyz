@@ -1,7 +1,8 @@
 ---
 description: >-
-  Below you will find some of the issues you might run into when configuring the
-  massive config file.
+  When working with our frameworks, you may encounter some challenges. Here are
+  some common issues and how to resolve them. If your issue is not in here open
+  a ticket and we will assist you.
 ---
 
 # ❌ Frequent Issues
