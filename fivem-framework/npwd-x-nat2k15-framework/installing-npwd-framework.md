@@ -4,7 +4,7 @@ description: >-
   please follow these detailed steps carefully:
 ---
 
-# Installing npwd-framework
+# 🧠 Installing npwd-framework
 
 1. **Configure the NPWD-Framework:**
    * Navigate to the `npwd-framework` configuration settings.
