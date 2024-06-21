@@ -11,7 +11,7 @@
       * [🛢️MySQL Connection String](fivem-framework/choose-your-hosting/linux-hosting/mysql-connection-string.md)
       * [👨‍💻Installing Framework](fivem-framework/choose-your-hosting/linux-hosting/installing-framework.md)
     * [🎮Panel Hosting](fivem-framework/choose-your-hosting/panel-hosting.md)
-  * [☎️ Framework 911 S (paid)](fivem-framework/framework-911-s-paid.md)
+  * [☎️ Framework 911 (paid)](fivem-framework/framework-911-paid.md)
   * [📲 NPWD X Framework](fivem-framework/npwd-x-framework/README.md)
     * [📋 Editing NPWD Config](fivem-framework/npwd-x-framework/editing-npwd-config.md)
     * [🧠 Installing npwd-framework](fivem-framework/npwd-x-framework/installing-npwd-framework.md)
