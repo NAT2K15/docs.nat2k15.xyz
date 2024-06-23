@@ -15,4 +15,5 @@
   * [📲 NPWD X Framework](fivem-framework/npwd-x-framework/README.md)
     * [📋 Editing NPWD Config](fivem-framework/npwd-x-framework/editing-npwd-config.md)
     * [🧠 Installing npwd-framework](fivem-framework/npwd-x-framework/installing-npwd-framework.md)
+  * [✒️ Change Logs](fivem-framework/change-logs.md)
   * [❌ Frequent Issues](fivem-framework/frequent-issues.md)
