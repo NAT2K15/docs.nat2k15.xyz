@@ -8,7 +8,7 @@ description: >-
 
 At the top of your client file. You will need to call the Framework's exports. This step is very crucial for all the exports to work properly.&#x20;
 
-```
+```lua
 Framework = exports["framework"]:getClientFunctions()    
 ```
 
