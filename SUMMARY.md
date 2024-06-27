@@ -17,4 +17,7 @@
       * [📋 Editing NPWD Config](fivem-framework/npwd-x-framework/editing-npwd-config.md)
       * [🧠 Installing npwd-framework](fivem-framework/npwd-x-framework/installing-npwd-framework.md)
   * [✒️ Change Logs](fivem-framework/change-logs.md)
+  * [✍️ Developers Usage](fivem-framework/developers-usage/README.md)
+    * [Client Side Exports](fivem-framework/developers-usage/client-side-exports.md)
+    * [Server Side Exports](fivem-framework/developers-usage/server-side-exports.md)
   * [❌ Frequent Issues](fivem-framework/frequent-issues.md)
