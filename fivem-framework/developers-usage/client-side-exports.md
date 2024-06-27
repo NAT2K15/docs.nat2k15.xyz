@@ -18,6 +18,27 @@ The "framework" will be the folder name the FiveM owner has in its resource. We 
 
 <details>
 
+<summary>Framework.isPlayerLoadedIn()</summary>
+
+This will check if the player is fully loaded in to a character. It will return either a false or true here is an example.
+
+```lua
+Citizen.CreateThread(function()
+    while true do 
+        Citizen.Wait(500)
+        if Framework.isPlayerLoadedIn() then
+            print("Player is loaded in")
+        else 
+            print("Player is not loaded in")
+        end
+    end
+end)
+```
+
+</details>
+
+<details>
+
 <summary>Framework.getPlayer(Framework.serverId)</summary>
 
 In the client side you can only request the clients data. We have disabled the option to allow you to request any users data as it should all be done on the server side. To simply request the data do&#x20;
@@ -39,6 +60,61 @@ RegisterCommand("whatsmyname", function(source, args, message)
     end
 end)
 ```
+
+</details>
+
+<details>
+
+<summary>Framework.getAop()</summary>
+
+Will return the current AOP you have in the server. If the AOP is disabled in the framework it will return a nil value.
+
+{% code title="Command example" %}
+```lua
+RegisterCommand("getcurrentaop", function(source, args, message) then
+    local aop = Framework.getAop()
+    if(aop) then    
+        print("The current AOP is " .. aop)
+    else 
+        print("AOP has been disabled in the framework")
+    end
+end)
+```
+{% endcode %}
+
+</details>
+
+<details>
+
+<summary>Framework.ShowInfo()</summary>
+
+If you want to show text on the bottom left of the screen above the hud you can now simply do that with this export
+
+```lua
+RegisterCommand('showinfo', function(source, args, message) 
+    Framework.ShowInfo("This is a test message")
+end)
+```
+
+
+
+<img src="https://i.imgur.com/zpppdMh.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>Framework.DisplayHelpText()</summary>
+
+This export will display the message on the top left of your screen.&#x20;
+
+```lua
+RegisterCommand('showhelp', function(source, args, message) 
+    Framework.DisplayHelpText("I need help")
+end)
+```
+
+<img src="https://i.imgur.com/xLP16Im.png" alt="" data-size="original">
 
 </details>
 
