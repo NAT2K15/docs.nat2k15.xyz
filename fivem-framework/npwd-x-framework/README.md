@@ -4,7 +4,7 @@ cover: https://store.nat2k15.xyz/images/feat-3QPmp0E-CtuUYwAPXfCU1Bn0j.png
 coverY: 0
 ---
 
-# 📲 NPWD X NAT2K15 Framework
+# 📲 NPWD X Framework
 
 Below you can find all of NPWD Links
 

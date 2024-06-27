@@ -5,7 +5,7 @@ description: >-
   properly configured before proceeding
 ---
 
-# ☎️ Framework 911 S (paid)
+# ☎️ Framework 911 (paid)
 
 #### Step 1: Install the NAT2K15 Framework
 
