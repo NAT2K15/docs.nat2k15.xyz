@@ -21,3 +21,7 @@
     * [Client Side Exports](fivem-framework/developers-usage/client-side-exports.md)
     * [Server Side Exports](fivem-framework/developers-usage/server-side-exports.md)
   * [❌ Frequent Issues](fivem-framework/frequent-issues.md)
+* [Personal Vehicle V2](personal-vehicle-v2/README.md)
+  * [Discord Bot Token](personal-vehicle-v2/discord-bot-token.md)
+  * [Installing Dependency](personal-vehicle-v2/installing-dependency.md)
+  * [Editing the Config](personal-vehicle-v2/editing-the-config.md)
