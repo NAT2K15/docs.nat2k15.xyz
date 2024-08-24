@@ -33,11 +33,11 @@ The personal vehicle system relies on two dependencies: **menuv** and **oxmysql*
 
 1. **Open phpMyAdmin: Open phpMyAdmin using the `Admin` Button on Apache.**
 
-<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 2. **Creating a database:** Upon opening phpMyAdmin click new on the top left then type for database name `fivem` (all lowercase) then click create.
 
-<img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
 
 Congratulations, you now know how to create a fivem database. Move on to the next page to continue the installation.
 
@@ -52,11 +52,11 @@ Creating your connection string:
 1. **Visit the MySQL String Generator Website:** [Here](https://brouznouf.github.io/fivem-mysql-async/)
 2. Click `Next` twice until you are on `3: Configure the FXServer`.
 
-<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="original">
 
 3. **After you are on the 3rd page, scroll down until you see this:**
 
-<img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original">
 
 4. **The following information will be required for your connection string to work:** (Some other things you can add will be: **acquireTimeout** and **connectTimeout** - These will make the string take longer before connecting / pushing an error.)
 
@@ -70,7 +70,7 @@ Creating your connection string:
 5. **After filling out the info regarding your database and you should see a section called `FXServer Configuration`**
 6. **Copy the line shown below from the website and paste it into your server.cfg and restart your server**
 
-<img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="original">
 
 
 
@@ -81,7 +81,7 @@ Whether you use [oxmysql ](https://github.com/overextended/oxmysql)or [mysql-asy
 1. Put the following lines of code into your server.cfg below all the default resources required by FiveM.
 2. **When downloading the files from github always select the releases version on the right side.**
 
-<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (6).png" alt="" data-size="original">
 
 ```lua
 set mysql_connection_string "host=localhost;user=root;database=fivem"

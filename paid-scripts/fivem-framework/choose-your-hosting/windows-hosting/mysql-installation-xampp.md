@@ -32,10 +32,10 @@ description: >-
 
 1. **Open phpMyAdmin: Open phpMyAdmin using the `Admin` Button on Apache.**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **Creating a database:** Upon opening phpMyAdmin click new on the top left then type for database name `fivem` (all lowercase) then click create.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Congratulations, you now know how to create a fivem database. Move on to the next page to continue the installation.

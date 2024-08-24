@@ -1,6 +1,6 @@
 ---
 description: In this section we will show you how to install the framework in steps.
-cover: ../../.gitbook/assets/coverFb.jpg
+cover: ../../../.gitbook/assets/coverFb.jpg
 coverY: 0
 layout:
   cover:

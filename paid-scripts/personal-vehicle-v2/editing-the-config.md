@@ -10,7 +10,7 @@ description: >-
 
 ***
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **1. Basic Configuration**
 
@@ -66,7 +66,7 @@ The `config.menu` table controls how the vehicle keys menu is accessed and displ
 
 ## vehicle-whitelist/config.json
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **1. Token Configuration**
 
@@ -122,4 +122,4 @@ The `config.menu` table controls how the vehicle keys menu is accessed and displ
 
 Make sure to customize these configurations to suit the unique requirements of your server. The provided settings are designed to be flexible, enabling you to fine-tune the personal vehicle system for an optimal player experience. Adjust the messages, commands, and menu options to align with your server's gameplay style and rules. You can confirm that everything is functioning correctly if your server console displays the following output:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

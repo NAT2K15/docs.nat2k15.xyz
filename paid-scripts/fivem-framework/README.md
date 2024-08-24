@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/feat-ysdToxoGvHVcPmpIQyz-x7XPw.png
+cover: ../../.gitbook/assets/feat-ysdToxoGvHVcPmpIQyz-x7XPw.png
 coverY: 0
 layout:
   cover:
