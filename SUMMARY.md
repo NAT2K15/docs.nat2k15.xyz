@@ -1,6 +1,7 @@
 # Table of contents
 
-* [FiveM Framework](README.md)
+* [NAT2K15 Documentation](README.md)
+* [FiveM Framework](<README (1).md>)
   * [💻 Choose your hosting](fivem-framework/choose-your-hosting/README.md)
     * [💻Windows Hosting](fivem-framework/choose-your-hosting/windows-hosting/README.md)
       * [🛢️MySQL Installation (xampp)](fivem-framework/choose-your-hosting/windows-hosting/mysql-installation-xampp.md)
