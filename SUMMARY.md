@@ -14,6 +14,7 @@
         * [👨‍💻Installing Framework](paid-scripts/fivem-framework/choose-your-hosting/linux-hosting/installing-framework.md)
       * [🎮Panel Hosting](paid-scripts/fivem-framework/choose-your-hosting/panel-hosting.md)
     * [📋 Framework Addons](paid-scripts/fivem-framework/framework-addons/README.md)
+      * [FiveM Scoreboard](paid-scripts/fivem-framework/framework-addons/fivem-scoreboard.md)
       * [☎️ Framework 911 (paid)](paid-scripts/fivem-framework/framework-addons/framework-911-paid.md)
       * [📲 NPWD X Framework](paid-scripts/fivem-framework/framework-addons/npwd-x-framework/README.md)
         * [📋 Editing NPWD Config](paid-scripts/fivem-framework/framework-addons/npwd-x-framework/editing-npwd-config.md)
