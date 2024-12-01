@@ -62,7 +62,7 @@ RegisterCommand('discord', function(source, args, message)
     else
         local discord = Framework.getDiscord(source)
         if(discord) then
-            TriggerClientEvent('chatMessage', player.src, discord)
+            TriggerClientEvent('chatMessage', source, discord)
         else     
             TriggerClientEvet('chatMessage', source, "Your discord isnt linked")
         end
