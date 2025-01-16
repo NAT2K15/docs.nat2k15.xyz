@@ -37,3 +37,7 @@
   * [💻Windows Hosting Guide](paid-bots/ticket-bot-v2/windows-hosting-guide/README.md)
     * [🛢️MySQL Installation (xampp)](paid-bots/ticket-bot-v2/windows-hosting-guide/mysql-installation-xampp.md)
     * [👨‍💻Installing Node.js](paid-bots/ticket-bot-v2/windows-hosting-guide/installing-node.js.md)
+* [Multi Server Control](paid-bots/multi-server-control/README.md)
+  * [💻Windows Hosting Guide](paid-bots/multi-server-control/windows-hosting-guide/README.md)
+    * [👨‍💻Installing Node.js](paid-bots/multi-server-control/windows-hosting-guide/installing-node.js.md)
+    * [🚂 Starting The Bot](paid-bots/multi-server-control/windows-hosting-guide/starting-the-bot.md)
