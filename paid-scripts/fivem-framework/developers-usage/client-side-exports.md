@@ -65,7 +65,7 @@ end)
 
 <details>
 
-<summary>Framework.getAop()</summary>
+<summary>Framework.getCurrentAop()</summary>
 
 Will return the current AOP you have in the server. If the AOP is disabled in the framework it will return a nil value.
 
