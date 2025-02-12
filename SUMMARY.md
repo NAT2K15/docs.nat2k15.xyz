@@ -30,6 +30,9 @@
   * [Discord Bot Token](paid-scripts/personal-vehicle-v2/discord-bot-token.md)
   * [Installing Dependency](paid-scripts/personal-vehicle-v2/installing-dependency.md)
   * [Editing the Config](paid-scripts/personal-vehicle-v2/editing-the-config.md)
+* [FiveM Discord Whitelist](paid-scripts/fivem-discord-whitelist/README.md)
+  * [Discord Bot Token](paid-scripts/fivem-discord-whitelist/discord-bot-token.md)
+  * [Edit the config](paid-scripts/fivem-discord-whitelist/edit-the-config.md)
 
 ## Paid Bots
 

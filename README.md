@@ -46,4 +46,4 @@ If you have any questions or concerns, please don't hesitate to open a ticket. W
 * Every **confirmed** developer of a customer
   * _This means the product owner needs to confirm the developer as their own_
 
-_\*We reserve the right to <mark style="color:red;">**DENY**</mark> support to any customer or non-customer who fails to adhere to our terms of service or does not treat our staff with respect. Please be mindful that our team is busy, and response times may vary. Typically, we aim to respond within 1-5 hours in the Discord server._
+_\*We reserve the right to <mark style="color:red;">**DENY**</mark> support to any customer or non-customer who fails to adhere to our terms of service or does not treat our staff with respect. Please be mindful that our team is busy, and response times may vary. Typically, we aim to respond within 2-6 hours in the Discord server._
