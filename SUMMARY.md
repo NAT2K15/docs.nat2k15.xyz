@@ -34,6 +34,10 @@
   * [Discord Bot Token](paid-scripts/fivem-discord-whitelist/discord-bot-token.md)
   * [Edit the config](paid-scripts/fivem-discord-whitelist/edit-the-config.md)
 
+***
+
+* [FiveM vMenu Modification](fivem-vmenu-modification.md)
+
 ## Paid Bots
 
 * [Ticket Bot V2](paid-bots/ticket-bot-v2/README.md)
