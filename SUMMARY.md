@@ -40,6 +40,7 @@
 * [FiveM Vehicle & Weapon Management System](fivem-vehicle-and-weapon-management-system/README.md)
   * [Installing Dependency](fivem-vehicle-and-weapon-management-system/installing-dependency.md)
   * [Configuration Guide](fivem-vehicle-and-weapon-management-system/configuration-guide.md)
+* [FiveM Admin Zone](fivem-admin-zone.md)
 
 ## Paid Bots
 
