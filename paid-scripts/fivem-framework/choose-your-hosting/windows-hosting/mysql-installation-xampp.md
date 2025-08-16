@@ -30,10 +30,7 @@ description: >-
 
 **Step 3: Creating The Database**
 
-1. **Open phpMyAdmin: Open phpMyAdmin using the `Admin` Button on Apache.**
-
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
+1. **Open phpMyAdmin: Open phpMyAdmin using the `Admin` Button on Mysql trough xampp.**
 2. **Creating a database:** Upon opening phpMyAdmin click new on the top left then type for database name `fivem` (all lowercase) then click create.
 
 <figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
